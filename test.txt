@@ -1,0 +1,5 @@
+the low number was: 5
+the high number was: 30
+played 7 throughout
+you got 6 correct out of 7  
+['11 + 10', 21, '28 + 27', 55, '26 + 10', 36, '13 + 25', 38, '18 + 23', 41, '28 + 20', 48, '10 + 17', 4] 
